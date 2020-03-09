@@ -1,0 +1,198 @@
+{
+    "newYork": [
+        {
+            "id": 1,
+            "city": "New York",
+            "day": "Monday",
+            "weather": "Partly Cloudy",
+            "precipitation": "0%",
+            "humidity" : "45%",
+            "temp": 67
+        },
+        {
+            "id": 2,
+            "city": "New York",
+            "day": "Tuesday",
+            "weather": "Scattered Showers",
+            "precipitation": "50%",
+            "humidity" : "66%",
+            "temp": 62
+        },
+        {
+            "id": 3,
+            "city": "New York",
+            "day": "Wednesday",
+            "weather": "Mostly Cloudy",
+            "precipitation": "20%",
+            "humidity" : "56%",
+            "temp": 56
+        },
+        {
+            "id": 4,
+            "city": "New York",
+            "day": "Thursday",
+            "weather": "Sunny",
+            "precipitation": "0%",
+            "humidity" : "22%",
+            "temp": 46
+        },
+        {
+            "id": 5,
+            "city": "New York",
+            "day": "Friday",
+            "weather": "Partly Cloudy",
+            "precipitation": "0%",
+            "humidity" : "57%",
+            "temp": 58
+        },
+        {
+            "id": 6,
+            "city": "New York",
+            "day": "Saturday",
+            "weather": "Showers",
+            "precipitation": "40%",
+            "humidity" : "66%",
+            "temp": 56
+        },
+        {
+            "id": 7,
+            "city": "New York",
+            "day": "Sunday",
+            "weather": "Partly Cloudy",
+            "precipitation": "20%",
+            "humidity" : "46%",
+            "temp": 54
+        }
+    ],
+    "miami": [
+        {
+            "id": 1,
+            "city": "miami",
+            "day": "Monday",
+            "weather": "Cloudy",
+            "precipitation": "10%",
+            "humidity" : "59%",
+            "temp": 74
+        },
+        {
+            "id": 2,
+            "city": "miami",
+            "day": "Tuesday",
+            "weather": "Mostly Cloudy",
+            "precipitation": "10%",
+            "humidity" : "63%",
+            "temp": 77
+        },
+        {
+            "id": 3,
+            "city": "miami",
+            "day": "Wednesday",
+            "weather": "Partly Cloudy",
+            "precipitation": "10%",
+            "humidity" : "61%",
+            "temp": 77
+        },
+        {
+            "id": 4,
+            "city": "miami",
+            "day": "Thursday",
+            "weather": "Partly Cloudy",
+            "precipitation": "20%",
+            "humidity" : "66%",
+            "temp": 80
+        },
+        {
+            "id": 5,
+            "city": "miami",
+            "day": "Friday",
+            "weather": "Sunny",
+            "precipitation": "10%",
+            "humidity" : "64%",
+            "temp": 81
+        },
+        {
+            "id": 6,
+            "city": "miami",
+            "day": "Saturday",
+            "weather": "Cloudy",
+            "precipitation": "10%",
+            "humidity" : "55%",
+            "temp": 72
+        },
+        {
+            "id": 7,
+            "city": "miami",
+            "day": "Sunday",
+            "weather": "Partly Cloudy",
+            "precipitation": "20%",
+            "humidity" : "60%",
+            "temp": 75
+        }
+    ],
+    "seattle": [
+        {
+            "id": 1,
+            "city": "seattle",
+            "day": "Monday",
+            "weather": "Sunny",
+            "precipitation": "10%",
+            "humidity" : "58%",
+            "temp": 50
+        },
+        {
+            "id": 2,
+            "city": "seattle",
+            "day": "Tuesday",
+            "weather": "Partly Showers",
+            "precipitation": "10%",
+            "humidity" : "52%",
+            "temp": 53
+        },
+        {
+            "id": 3,
+            "city": "seattle",
+            "day": "Wednesday",
+            "weather": "Partly Cloudy",
+            "precipitation": "20%",
+            "humidity" : "66%",
+            "temp": 52
+        },
+        {
+            "id": 4,
+            "city": "seattle",
+            "day": "Thursday",
+            "weather": "Partly Cloudy",
+            "precipitation": "10%",
+            "humidity" : "65%",
+            "temp": 50
+        },
+        {
+            "id": 5,
+            "city": "seattle",
+            "day": "Friday",
+            "weather": "Showers",
+            "precipitation": "40%",
+            "humidity" : "73%",
+            "temp": 46
+        },
+        {
+            "id": 6,
+            "city": "seattle",
+            "day": "Saturday",
+            "weather": "Partly Cloudy",
+            "precipitation": "20%",
+            "humidity" : "54%",
+            "temp": 46
+        },
+        {
+            "id": 7,
+            "city": "seattle",
+            "day": "Sunday",
+            "weather": "Sunny",
+            "precipitation": "10%",
+            "humidity" : "55%",
+            "temp": 49
+        }
+    ]
+}
+
